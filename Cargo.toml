@@ -1,0 +1,11 @@
+[package]
+name = "blockprint"
+version = "0.1.0"
+edition = "2024"
+description = "Grid-based placement and routing (P&R) for chip design."
+license = "Apache-2.0"
+repository = "https://github.com/xlsynth/blockprint"
+homepage = "https://github.com/xlsynth/blockprint"
+documentation = "https://docs.rs/blockprint"
+
+[dependencies]
